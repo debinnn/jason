@@ -2,91 +2,91 @@
     {
       "name": "Apple",
       "category": "Fruit",
-      "image": "https://example.com/images/apple.jpg",
+      "image": "assets/apple.jpg",
       "price": "$1.50 per lb"
     },
     {
       "name": "Potato",
       "category": "Vegetable",
-      "image": "https://example.com/images/potato.jpg",
+      "image": "assets/potato.jpg",
       "price": "$0.80 per lb"
     },
     {
       "name": "Wheat",
       "category": "Grain",
-      "image": "https://example.com/images/wheat.jpg",
+      "image": "assets/wheat.svg",
       "price": "$5.00 per bushel"
     },
     {
       "name": "Banana",
       "category": "Fruit",
-      "image": "https://example.com/images/banana.jpg",
+      "image": "assets/banana.webp",
       "price": "$0.50 per lb"
     },
     {
       "name": "Tomato",
       "category": "Vegetable",
-      "image": "https://example.com/images/tomato.jpg",
+      "image": "assets/tomato.jpg",
       "price": "$1.00 per lb"
     },
     {
       "name": "Rice",
       "category": "Grain",
-      "image": "https://example.com/images/rice.jpg",
+      "image": "assets/rice.webp",
       "price": "$3.00 per kg"
     },
     {
       "name": "Orange",
       "category": "Fruit",
-      "image": "https://example.com/images/orange.jpg",
+      "image": "assets/orange.jpg",
       "price": "$1.20 per lb"
     },
     {
       "name": "Carrot",
       "category": "Vegetable",
-      "image": "https://example.com/images/carrot.jpg",
+      "image": "assets/carrot.webp",
       "price": "$0.70 per lb"
     },
     {
       "name": "Barley",
       "category": "Grain",
-      "image": "https://example.com/images/barley.jpg",
+      "image": "assets/barley.jpg",
       "price": "$4.50 per bushel"
     },
     {
       "name": "Mango",
       "category": "Fruit",
-      "image": "https://example.com/images/mango.jpg",
+      "image": "assets/mango.jpg",
       "price": "$1.80 per lb"
     },
     {
       "name": "Onion",
       "category": "Vegetable",
-      "image": "https://example.com/images/onion.jpg",
+      "image": "assets/onion.jpg",
       "price": "$0.60 per lb"
     },
     {
       "name": "Oats",
       "category": "Grain",
-      "image": "https://example.com/images/oats.jpg",
+      "image": "assets/oats.webp",
       "price": "$3.50 per bushel"
     },
     {
       "name": "Grapes",
       "category": "Fruit",
-      "image": "https://example.com/images/grapes.jpg",
+      "image": "assets/grapes.png",
       "price": "$2.00 per lb"
     },
     {
       "name": "Spinach",
       "category": "Vegetable",
-      "image": "https://example.com/images/spinach.jpg",
+      "image": "assets/spinach.jpg",
       "price": "$1.50 per lb"
     },
     {
       "name": "Corn",
       "category": "Grain",
-      "image": "https://example.com/images/corn.jpg",
+      "image": "assets/corn.webp",
       "price": "$4.00 per bushel"
     }
   ]
