@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Apple",
+      "category": "Fruit",
+      "image": "https://example.com/images/apple.jpg",
+      "price": "$1.50 per lb"
+    },
+    {
+      "name": "Potato",
+      "category": "Vegetable",
+      "image": "https://example.com/images/potato.jpg",
+      "price": "$0.80 per lb"
+    },
+    {
+      "name": "Wheat",
+      "category": "Grain",
+      "image": "https://example.com/images/wheat.jpg",
+      "price": "$5.00 per bushel"
+    },
+    {
+      "name": "Banana",
+      "category": "Fruit",
+      "image": "https://example.com/images/banana.jpg",
+      "price": "$0.50 per lb"
+    },
+    {
+      "name": "Tomato",
+      "category": "Vegetable",
+      "image": "https://example.com/images/tomato.jpg",
+      "price": "$1.00 per lb"
+    },
+    {
+      "name": "Rice",
+      "category": "Grain",
+      "image": "https://example.com/images/rice.jpg",
+      "price": "$3.00 per kg"
+    },
+    {
+      "name": "Orange",
+      "category": "Fruit",
+      "image": "https://example.com/images/orange.jpg",
+      "price": "$1.20 per lb"
+    },
+    {
+      "name": "Carrot",
+      "category": "Vegetable",
+      "image": "https://example.com/images/carrot.jpg",
+      "price": "$0.70 per lb"
+    },
+    {
+      "name": "Barley",
+      "category": "Grain",
+      "image": "https://example.com/images/barley.jpg",
+      "price": "$4.50 per bushel"
+    },
+    {
+      "name": "Mango",
+      "category": "Fruit",
+      "image": "https://example.com/images/mango.jpg",
+      "price": "$1.80 per lb"
+    },
+    {
+      "name": "Onion",
+      "category": "Vegetable",
+      "image": "https://example.com/images/onion.jpg",
+      "price": "$0.60 per lb"
+    },
+    {
+      "name": "Oats",
+      "category": "Grain",
+      "image": "https://example.com/images/oats.jpg",
+      "price": "$3.50 per bushel"
+    },
+    {
+      "name": "Grapes",
+      "category": "Fruit",
+      "image": "https://example.com/images/grapes.jpg",
+      "price": "$2.00 per lb"
+    },
+    {
+      "name": "Spinach",
+      "category": "Vegetable",
+      "image": "https://example.com/images/spinach.jpg",
+      "price": "$1.50 per lb"
+    },
+    {
+      "name": "Corn",
+      "category": "Grain",
+      "image": "https://example.com/images/corn.jpg",
+      "price": "$4.00 per bushel"
+    }
+  ]
+  
